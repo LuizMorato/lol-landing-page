@@ -20,8 +20,7 @@ League of Legends is a popular multiplayer online battle arena (MOBA) game devel
 - Informative description of the game.
 
 # How to Use 🚀 
-1. Clone the repository to your local machine.
-2. Open the index.html file in your web browser.
+2. Open the [site](https://lol-landing-page-black.vercel.app/) in your web browser.
 3. Click on the champion icons to select your champion.
 
 # Credits 💡
